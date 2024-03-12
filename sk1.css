@@ -1,0 +1,321 @@
+*{
+  margin:0;
+
+}
+#sup{
+  background-image: url("../project/logo.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100vh;
+  background-attachment: fixed;
+
+}
+
+
+#bimg{
+    height: 100%;
+    width: 100%;
+   
+
+} 
+
+#nv{
+    color: white;
+    height: 60px;
+    width: 2500px;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 35px;
+    position: fixed;
+    
+
+}
+#nv{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    bottom:2000px;
+    position: relative;
+    word-spacing: 50px;
+    
+}
+
+#align{
+    height: 300px;
+    width: 2020px;
+    position: relative;
+    display: flex;
+    bottom: 1970px;
+    padding-left: 10px;
+    cursor: grab;
+    
+
+}
+
+.im{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;
+}
+
+
+
+.imone{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;
+}
+
+
+.imtwo{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;;
+
+}
+
+.imthree{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;
+}
+
+.imfour{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;
+}
+
+.imfive{
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 29px;
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 10px;
+
+}
+
+
+.im:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+.imone:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+.imtwo:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+.imthree:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+.imfour:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+.imfive:hover{
+    transition: background-color 0.3s ease-in-out;
+        background-color: rgb(18, 4, 4);
+}
+
+
+#heading{
+    display: flex;
+    background-color: aqua;
+    height: 50;
+}
+
+#hone{
+    display: flex;
+    bottom: 100px;
+}
+
+.htwo{
+    display: flex;
+    bottom: 500px;
+
+}
+
+
+
+#marq{
+    background-color: rgb(234, 195, 137);
+    height: 30px;
+    width: 2000px;
+    font-size: 40px;
+    align-items: center;
+    display: flex;
+    bottom: 100px;
+}
+
+
+  #flow{
+    bottom: 100px;
+    display: flex;
+    height: 40px;
+    width: 2000px;
+    background-color: rgb(154, 48, 48);
+    align-items: center;
+  }
+
+  .io{
+    display: flex;
+    top: 100px;
+    margin-left: 140px;
+    margin-bottom: 2px;
+  }
+  
+
+
+  .re{
+    display: flex;
+    margin-left: 140px;
+
+  }
+
+  .po{
+    display: flex;
+    margin-left: 110px;
+  }
+
+  .fi{
+    display: flex;
+    margin-left: 140px;
+  }
+
+  .ba{
+    display: flex;
+    margin-left: 160px;
+  }
+
+  .pub{
+    display: flex;
+    margin-left: 160px;
+  }
+
+  /* p{
+    position: relative;
+    z-index: 0;
+  } */
+
+
+
+
+/* #hthree{
+
+}
+
+#hfour{
+
+}
+#hfive{
+
+}
+#hsix{
+
+} */
+
+/* #marq{ */
+    /* display: flex; */
+    /* bottom: 100px; */
+    /* width: 2040px; */
+    /* overflow: hidden; */
+    /* white-space: nowrap; Prevent text from wrapping to the next line */
+    /* bottom: 2000px; */
+
+/* } */
+  
+  /* #marq{
+    display: flex;
+    bottom: 100px;
+    display: inline-block;
+    animation: marquee 5s linear infinite; /* Adjust duration as needed */
+  /* } */
+  
+  /* @keyframes marq {
+    0% {
+      transform: translateX(100%); /* Start off the screen to the right */
+    /* } */
+    /* 100% { */
+      /* transform: translateX(-100%); Move to the left until completely off the screen */
+    /* } */
+  /* } */
+
+  /* .marqq{
+    display: flex;
+    bottom: 100px;
+    
+  }   */
+
+  /* .move-text {
+    position: absolute;
+    top: 50%; Initial vertical position
+    left: 50%; Initial horizontal position
+    transform: translate(-50%, -50%); Center the text in its container
+    animation: moveAnimation 5s infinite linear; Define the animation
+    color: black;
+}
+  
+  @keyframes moveAnimation {
+    0% {
+      top: 50%;
+      left: 50%;
+    }
+    25% {
+      top: 10%;
+      left: 40%;
+    }
+    50% {
+      top: 30%;
+      left: 70%;
+    }
+    75% {
+      top: 70%;
+      left: 30%;
+    }
+    100% {
+      top: 50%;
+      left: 50%;
+    }
+  } */
+
+  #flow{
+
+    display: flex;
+    position: absolute; 
+    top: -10vh; 
+    top: 90px;
+    /* margin-bottom: 100%; */
+
+  }
+  
